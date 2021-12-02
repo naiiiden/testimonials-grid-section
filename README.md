@@ -8,7 +8,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Mobile design
 ![mobile](/design/mobile-design.jpg)
 
-I think the challenge was meant to be done using grid, but I flexbox was much easier.
+I think the challenge was meant to be done using grid, but using flexbox instead was much easier.
 
 ## Live preview
 https://naiiiden.github.io/testimonials-grid-section/
