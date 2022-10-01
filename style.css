@@ -115,6 +115,10 @@ blockquote {
     color: var(--very-dark-grayish-blue);
 }
 
+.white {
+    color: #fff;
+}
+
 .opacity50 {
     opacity: 50%; /* opacity settings for "Verified Graduate" under names*/
 }
